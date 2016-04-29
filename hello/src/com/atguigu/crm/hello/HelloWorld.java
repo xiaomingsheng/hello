@@ -9,5 +9,7 @@ public class HelloWorld {
 		System.out.println("555555");
 		System.out.println("666666");
 		System.out.println("777777");
+		System.out.println("888888d");
+		System.out.println("999999");
 	}
 }
